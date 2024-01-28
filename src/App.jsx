@@ -1,3 +1,9 @@
+/* 
+  File: App.jsx
+  Author: Anamika Sharma
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 // src/App.jsx
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';

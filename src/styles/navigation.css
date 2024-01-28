@@ -1,4 +1,11 @@
+/*
+  File: styles/navigation.css
+  Author: ANAMIKA SHARMA
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 /* src/styles/navigation.css */
+
 nav {
     display: flex;
     align-items: center;

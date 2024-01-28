@@ -1,3 +1,9 @@
+/* 
+  File: src/pages/Contact.jsx
+  Author: Anamika Sharma
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 // src/pages/Contact.jsx
 import React from 'react';
 import '../styles/Contact.css'; // Create this CSS file for styling

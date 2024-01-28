@@ -1,3 +1,9 @@
+/* 
+  File: src/pages/Home.jsx
+  Author: Anamika Sharma
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 // src/pages/Home.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';

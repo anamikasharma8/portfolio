@@ -1,3 +1,9 @@
+/* 
+  File: src/pages/Projects.jsx
+  Author: Anamika Sharma
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 // src/pages/Projects.jsx
 import React from 'react';
 import '../styles/Projects.css'; // You can create this CSS file for styling

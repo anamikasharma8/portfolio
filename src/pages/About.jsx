@@ -1,3 +1,9 @@
+/* 
+  File: src/pages/About.jsx
+  Author: Anamika Sharma
+  StudentID: 301379885
+  Date: January 27, 2024
+*/
 // src/pages/About.jsx
 import React from 'react';
 import myImage from '../assets/asphto.jpg'; 
