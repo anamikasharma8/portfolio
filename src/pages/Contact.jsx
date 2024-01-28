@@ -6,7 +6,7 @@
 */
 // src/pages/Contact.jsx
 import React from 'react';
-import '../styles/Contact.css'; // Create this CSS file for styling
+import '../styles/contact.css'; // Create this CSS file for styling
 import { Link } from 'react-router-dom';
 
 const Contact = () => {
