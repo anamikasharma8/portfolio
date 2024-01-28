@@ -1,0 +1,35 @@
+/* src/Home.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    height: 100vh; /* This ensures the container takes the full height of the viewport */
+    margin-bottom: 0; /* Adjust the margin if needed */
+  }
+  
+  .heading {
+    font-size: 2.5em;
+    color: yellowgreen;
+    margin-bottom: 10px; /* Adjust the margin to decrease the gap */
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #4b0082; /* Purple color */
+    color: greenyellow;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .mission {
+    margin-top: 20px;
+  }
+  

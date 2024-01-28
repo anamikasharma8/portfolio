@@ -1,0 +1,31 @@
+/* src/styles/Services.css */
+
+.services-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .service {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .service img {
+    width: 300px; /* Adjust the image size as needed */
+    height: 300px;
+    object-fit: cover; /* Ensure the image maintains its aspect ratio */
+    border-radius: 50%; /* Make the image circular or adjust the border-radius as needed */
+  }
+  
+  .service h3 {
+    margin: 10px 0;
+    color: #4b0082; /* Purple color */
+  }
+  
+  .service p {
+    color: rgb(255, 0, 98);
+    font-size: large;
+  }
+  

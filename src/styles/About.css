@@ -1,0 +1,48 @@
+/* src/styles/About.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .heading {
+    font-size: 2.5em;
+    color: yellowgreen;
+    margin-bottom: 10px;
+  }
+  
+
+  .image {
+    border: 1px solid black; /* black border */
+    border-radius: 5px; /* Adjust the border-radius for rounded corners */
+    width: 100%; /* Ensure the image takes the full width of its container */
+    max-width: 250px; /* Set a maximum width for the image */
+    height: 315px; /* Set a maximum height for the image */
+    margin: 20px 0; /* Add margin for spacing */
+}
+  
+  .paragraph {
+    margin-top: 20px;
+    text-align: justify; /* Add this line to justify the text */
+    font-size: large;
+    color: rgb(0, 170, 255);
+  }
+  
+  .download-button{
+    padding: 10px 7px;
+    font-size: 1em;
+    background-color: palevioletred; /* Pink color */
+    color: greenyellow;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    display: inline-block; /* Ensure the button styling is applied properly */
+  }
+  
