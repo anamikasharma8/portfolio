@@ -21,8 +21,8 @@
   }
   
   .service img {
-    width: 300px; /* Adjust the image size as needed */
-    height: 300px;
+    width: 250px; /* Adjust the image size as needed */
+    height: 250px;
     object-fit: cover; /* Ensure the image maintains its aspect ratio */
     border-radius: 50%; /* Make the image circular or adjust the border-radius as needed */
   }
