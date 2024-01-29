@@ -6,7 +6,7 @@
 */
 // src/pages/Services.jsx
 import React from 'react';
-import '../styles/Services.css'; 
+import '../styles/Services.css';
 
 const Services = () => {
     return (
